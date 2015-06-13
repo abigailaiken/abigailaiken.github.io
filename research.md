@@ -2,7 +2,6 @@
 layout: post
 permalink: /research/index.html
 title: Research
-description: Research
 tags: [about, Jekyll, theme, responsive]
 image:
   feature: soft-trees.jpg
