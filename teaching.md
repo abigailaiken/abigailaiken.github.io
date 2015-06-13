@@ -4,7 +4,7 @@ permalink: /teaching/index.html
 title: Teaching
 tags: [about, Jekyll, theme, responsive]
 image:
-  feature: soft-trees.jpg
+  feature: IMG_2253.JPG.jpg
 ---
 
 ## Fall 2014
