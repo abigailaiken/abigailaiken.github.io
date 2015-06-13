@@ -4,7 +4,7 @@ permalink: /teaching/index.html
 title: Teaching
 tags: [about, Jekyll, theme, responsive]
 image:
-  feature: IMG_2253.JPG.jpg
+  feature: IMG_2253.JPG
 ---
 
 ## Fall 2014
