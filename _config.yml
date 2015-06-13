@@ -18,8 +18,8 @@ links:
     url: /research
   - title: Teaching
     url: /teaching
-  - title: Collaborators 
-    url: /collaborators
+  - title: Collaborations 
+    url: /collaborations
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Chicago
