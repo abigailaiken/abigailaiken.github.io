@@ -1,10 +1,9 @@
 ---
-layout: page
-title: "Home"
+layout: home
+title: "Recent Posts"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: typewriter.jpg
   ---
 
-Hi, I'm Abigail Aiken.
-
+Hi, I'm Abigail Aiken.  
