@@ -7,7 +7,7 @@ image:
   feature: soft-trees.jpg
 ---
 
-### My current research interests encompass three main areas: unintended pregnancy; reproductive health policy; and evidence-based obstetric practice 
+My current research interests encompass three main areas: unintended pregnancy; reproductive health policy; and evidence-based obstetric practice.
 
 ###   Unintended Pregnancy 
 
