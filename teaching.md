@@ -10,9 +10,9 @@ image:
 
 ### Fall 2014
 
-### WWS 593B/POP 504B
+### WWS 593B/POP 504B: Reproductive Health and Reproductive Rights
 
-In Fall 2014, I co-taught an advanced-level course for Master’s and doctoral students at the Woodrow Wilson School of Public and International Affairs entitled “Reproductive Health and Reproductive Rights”. The course was developed 15 years ago by Professor James Trussell and has been taught by him each year ever since. Classes were run as small-group discussion-based seminars, emphasizing the application of scientific principles and human rights frameworks to analyze reproductive health policy. 
+I co-taught this advanced-level course for Master’s and doctoral students at the Woodrow Wilson School of Public and International Affairs with Professor James Trussell, who founded the course 15 years ago. Classes were run as small group discussion-based seminars. Through carefully selected-readings and class discussions, students learned to apply scientific principles and reproductive rights frameworks to such policy issues as unintended pregnancy, contraceptive access, abortion, teen pregnancy, and assisted reproduction. 
 
 
 
