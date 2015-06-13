@@ -37,11 +37,13 @@ The postpartum period offers opportunities for women and providers to engage in 
 
 [Aiken ARA, Creinin M, Kaunitz, A, Nelson, A, & Trussell J. Global Fee Prohibits Postpartum Provision of the Most Effective Reversible Contraceptives. Contraception 2014:90(5);466-467](http://www.ncbi.nlm.nih.gov/pubmed/?term=Global+Fee+Prohibits+Postpartum+Provision+of+the+Most+Effective+Reversible+Contraceptives.)
 
-[Aiken ARA, Aiken CEM, Trussell J, & Guthrie KA. Immediate Postpartum Provision of Highly Effective Reversible Contraception in the UK. Commentary in British Journal of Obstetrics and Gynaecology 2015 To Appear](http://www.ncbi.nlm.nih.gov/pubmed/25626730)
+[Aiken ARA, Aiken CEM, Trussell J, & Guthrie KA. Immediate Postpartum Provision of Highly Effective Reversible Contraception in the UK. Commentary in British Journal of Obstetrics and Gynaecology 2015 Forthcoming](http://www.ncbi.nlm.nih.gov/pubmed/25626730)
 
-I am also interested in the development of new methods of contraception, improvements in existing methods, and ways to reduce financial barriers to methods with high upfront costs. 
+I am also interested in the development of new methods of contraception, improvements to existing methods, and ways to reduce financial barriers to methods with high upfront costs, as well as in reproductive health professionals' own experiences with contraceptive use and unprotected intercourse
 
 [Aiken ARA & Trussell J. Recent Advances in Contraception. F1000Prime Reports 2014:6:113](http://www.ncbi.nlm.nih.gov/pubmed/25580267)
+
+[Aiken ARA & Trussell J. Do As We Say, Not As We Do: Experiences of Unprotected Intercourse Reported by Members of the Society of Family Planning. Contraception 2015:92(1);71-76](http://www.ncbi.nlm.nih.gov/pubmed/25869630)
 
 ### Evidence-Based Obstetric Practice
 
@@ -49,7 +51,7 @@ Clinical guidelines and practice norms for managing prolonged labor due to fetal
 
 [Aiken CEM, Aiken ARA, Brockelsby JC & Scott JG. Factors Influencing the Likelihood of Instrumental Delivery Success. Obstetrics & Gynecology 2014:123(4);796-803](http://www.ncbi.nlm.nih.gov/pubmed/?term=Factors+Influencing+the+Likelihood+of+Instrumental+Delivery+Success)
 
-This article was chosen for the Green Journal’s Journal Club and named one of the top five articles in labor management of 2014
+This article was chosen for The Green Journal’s Journal Club and named one of the top five articles in labor management of 2014
 
 [Aiken ARA, Aiken CEM, Brockelsby JC, Alberry, M & Scott JG. Management of Fetal Malposition in the Second Stage of Labor: A Propensity Score Analysis. American Journal of Obstetrics and Gynecology 2015:212(3);355.e1–355.e7](http://www.ncbi.nlm.nih.gov/pubmed/?term=Management+of+Fetal+Malposition+in+the+Second+Stage+of+Labor%3A+A+Propensity+Score+Analysis)
 
@@ -62,4 +64,6 @@ We are also interested in the development of training programs to help ensure th
 
 Aiken CEM, Aiken ARA, Park H, Brockelsby JC & Prentice A. Limiting Adverse Outcomes as Obstetric Trainees Become Independent in Operative Delivery. Medical Education 2015 Forthcoming
 
+
+ 
  
