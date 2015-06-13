@@ -4,7 +4,7 @@ permalink: /research/index.html
 title: Research
 tags: [about, Jekyll, theme, responsive]
 image:
-  feature: soft-trees.jpg
+  feature: IMG_0032.JPG
 ---
 
 My current research interests encompass three main areas:  
