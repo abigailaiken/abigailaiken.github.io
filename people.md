@@ -14,11 +14,11 @@ collaborators in a variety of academic, policy, and clinical
 settinges. These include: 
 
  *[Professor James Trussell](http://www.princeton.edu/~trussell/) at
- Princeton University
+ Princeton University  
 *[Dr Catherine Aiken](http://www.obgyn.cam.ac.uk/staff/senior-staff/dr-catherine-aiken/)
- at the University of Cambridge
+ at the University of Cambridge  
 *[Professor James Scott](http://jgscott.github.io) at the University
-of Texas at Austin
+of Texas at Austin  
 *My colleagues at [Tx-PEP](http://www.utexas.edu/cola/orgs/txpep/).
 
 
