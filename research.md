@@ -19,6 +19,8 @@ Unintended pregnancy has long been a major public health and policy issue in the
 [Aiken ARA, Dillaway C & Mevs-Korff N. A Blessing I Can’t Afford: Factors Underlying the
 Paradox of Happiness About Unintended Pregnancy Social Science and Medicine 2015:132;149-155](http://www.ncbi.nlm.nih.gov/pubmed/?term=a+blessing+i+can't+afford)
 
+This article was selected for recommendation by the Faculty of 1000 as being of special significance in its field.
+
 [Aiken ARA & Potter JE. Are Latina Women Ambivalent About Pregnancies they are Trying to Prevent? Perspectives on Sexual and Reproductive Health 2013:45(4);196-203](http://www.ncbi.nlm.nih.gov/pubmed/?term=Are+Latina+Women+Ambivalent+About+Pregnancies+they+are+Trying+to+Prevent%3F+Perspectives+on+Sexual+and+Reproductive+Health)
 
 Significant disparities in rates of unintended pregnancy exist by race/ethnicity and by socioeconomic status. A further dimension of this work assessed the later-life health impacts of high parity among Latina women, including increased susceptibility to physical disability at older ages. 
