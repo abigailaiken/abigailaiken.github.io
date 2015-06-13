@@ -4,8 +4,6 @@ permalink: /research/index.html
 title: Research
 description: Research
 tags: [about, Jekyll, theme, responsive]
-image:
-  feature: soft-trees.jpg
 ---
 
 ### Peer-reviewed journal articles  
