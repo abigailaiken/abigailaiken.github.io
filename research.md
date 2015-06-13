@@ -14,10 +14,10 @@ image:
 
 Unintended pregnancy has long been a major public health and policy issue in the United States. Yet we are only just beginning to move away from the paradigm that women’s and men’s conceptualizations of pregnancy can, or should, be represented by static, one-dimensional constructs of plans or intentions. Using a mixed-methods approach, my work focuses on advancing the understanding of how women and men conceptualize pregnancy as a risk and potential reality. I explore intentions, feelings, and desires, and investigate their relationships with contraceptive behaviors and potential life impacts. The overarching goals of this research are to improve measurement of the burden of unintended pregnancy, characterize its relationships with adverse health outcomes, and inform policies aimed at prevention. 
 
-Aiken ARA. Happiness About Unintended Pregnancy and its Relationship to Contraceptive Desires Among a Predominantly             Latina Cohort Perspectives on Sexual and Reproductive Health 2015. Forthcoming
+[Aiken ARA. Happiness About Unintended Pregnancy and its Relationship to Contraceptive Desires Among a Predominantly Latina Cohort Perspectives on Sexual and Reproductive Health 2015. Forthcoming](http://www.ncbi.nlm.nih.gov/pubmed/?term=Happiness+About+Unintended+Pregnancy+and+its+Relationship+to+Contraceptive+Desires+Among+a+Predominantly+++++++++++++Latina+Cohort+Perspectives+on+Sexual+and+Reproductive+Health+2015)
 
-Aiken ARA, Dillaway C & Mevs-Korff N. A Blessing I Can’t Afford: Factors Underlying the
-Paradox of Happiness About Unintended Pregnancy Social Science and Medicine 2015:132;149-155.  
+[Aiken ARA, Dillaway C & Mevs-Korff N. A Blessing I Can’t Afford: Factors Underlying the
+Paradox of Happiness About Unintended Pregnancy Social Science and Medicine 2015:132;149-155](http://www.ncbi.nlm.nih.gov/pubmed/?term=a+blessing+i+can't+afford)
 
 [Aiken ARA & Potter JE. Are Latina Women Ambivalent About Pregnancies they are Trying to Prevent? Perspectives on Sexual and Reproductive Health 2013:45(4);196-203](http://www.ncbi.nlm.nih.gov/pubmed/?term=Are+Latina+Women+Ambivalent+About+Pregnancies+they+are+Trying+to+Prevent%3F+Perspectives+on+Sexual+and+Reproductive+Health)
 
