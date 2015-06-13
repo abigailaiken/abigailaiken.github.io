@@ -39,7 +39,7 @@ The postpartum period offers opportunities for women and providers to engage in 
 
 [Aiken ARA, Aiken CEM, Trussell J, & Guthrie KA. Immediate Postpartum Provision of Highly Effective Reversible Contraception in the UK. Commentary in British Journal of Obstetrics and Gynaecology 2015 Forthcoming](http://www.ncbi.nlm.nih.gov/pubmed/25626730)
 
-I am also interested in the development of new methods of contraception, improvements to existing methods, and ways to reduce financial barriers to methods with high upfront costs, as well as in reproductive health professionals' own experiences with contraceptive use and unprotected intercourse
+I am also interested in the development of new methods of contraception, improvements to existing methods, and ways to reduce financial barriers to methods with high upfront costs, as well as in reproductive health professionals' own experiences with contraceptive use and unprotected intercourse.
 
 [Aiken ARA & Trussell J. Recent Advances in Contraception. F1000Prime Reports 2014:6:113](http://www.ncbi.nlm.nih.gov/pubmed/25580267)
 
