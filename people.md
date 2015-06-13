@@ -11,7 +11,7 @@ image:
 
 I have been extremely fortunate to work with a number of wonderful
 collaborators in a variety of academic, policy, and clinical
-settinges. These include: 
+settinges. Some of these include: 
 
  *[Professor James Trussell](http://www.princeton.edu/~trussell/) at
  Princeton University  
