@@ -19,6 +19,6 @@ settinges. Some of these include:
  at the University of Cambridge  
 [Professor James Scott](http://jgscott.github.io) at the University
 of Texas at Austin  
-My colleagues at [Tx-PEP](http://www.utexas.edu/cola/orgs/txpep/).
+My colleagues at [The Texas Policy Evaluation Project](http://www.utexas.edu/cola/orgs/txpep/).
 
 
