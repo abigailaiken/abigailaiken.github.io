@@ -45,7 +45,7 @@ I am also interested in the development of new methods of contraception, improve
 
 The following opinion pieces were written in response to recent reproductive health policy and practice changes.
 
-* In response to Ross Douthat's op-ed "The Texas Abortion Experiment": [letter in * The New York Times*](http://www.nytimes.com/2013/07/26/opinion/abortion-laws-in-texas-and-ireland.html?ref=todayspaper&_r=0)
+* In response to Ross Douthat's op-ed "The Texas Abortion Experiment": [letter in The New York Times](http://www.nytimes.com/2013/07/26/opinion/abortion-laws-in-texas-and-ireland.html?ref=todayspaper&_r=0)
 
 * In response to the endorsement of intrauterine devices and implants as "first line" contraceptives for teens by the American Academy of Pediatrics: [Woodrow Wilson School Reacts](http://wws.princeton.edu/news-and-events/news/item/wws-reacts-are-iuds-most-effective-form-contraception-teens)
 
