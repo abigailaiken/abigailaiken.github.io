@@ -43,6 +43,12 @@ I am also interested in the development of new methods of contraception, improve
 * [Aiken ARA & Trussell J. Recent Advances in Contraception. F1000Prime Reports 2014:6:113](http://www.ncbi.nlm.nih.gov/pubmed/25580267)  
 * [Aiken ARA & Trussell J. Do As We Say, Not As We Do: Experiences of Unprotected Intercourse Reported by Members of the Society of Family Planning. Contraception 2015:92(1);71-76](http://www.ncbi.nlm.nih.gov/pubmed/25869630)  
 
+The following opinion pieces were written in response to recent reproductive health policy and practice changes.
+
+* In response to Ross Douthat's op-ed "The Texas Abortion Experiment": [letter in * The New York Times*](http://www.nytimes.com/2013/07/26/opinion/abortion-laws-in-texas-and-ireland.html?ref=todayspaper&_r=0)
+
+* In response to the endorsement of intrauterine devices and implants as "first line" contraceptives for teens by the American Academy of Pediatrics: [Woodrow Wilson School Reacts](http://wws.princeton.edu/news-and-events/news/item/wws-reacts-are-iuds-most-effective-form-contraception-teens)
+
 ### Evidence-Based Obstetric Practice
 
 Clinical guidelines and practice norms for managing prolonged labor due to fetal malposition vary widely by country. In the U.S, Cesarean section is the default mode of management. In the U.K, obstetric instruments including forceps and ventouse are available as alternatives to Cesarean section. In collaboration with clinical colleagues in the U.K., this aspect of my research compares maternal and neonatal outcomes for complex deliveries conducted using obstetric instruments versus Cesarean section and examines the factors influencing success. Findings support not only the safety of instrumental delivery, but also several benefits for maternal health over Cesarean delivery.  
