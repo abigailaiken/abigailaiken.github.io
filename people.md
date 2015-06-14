@@ -4,7 +4,7 @@ permalink: /people/index.html
 title: People 
 tags: [about, Jekyll, theme, responsive]
 image:
-  feature: soft-trees.jpg
+  feature: IMGP3647.JPG
 ---
 
 ###  Collaborators
