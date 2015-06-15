@@ -29,10 +29,8 @@ My colleagues at the [Texas Policy Evaluation Project](http://www.utexas.edu/col
 The following organizations provide current, accurate, and excellent
 information and resources on various facets of reproductive health:
 
-Research and Policy Analysis
-
+Research and Policy Analysis  
 [The Guttmacher Institute](http://www.guttmacher.org)
 
-Resources 
-
+Resources   
 [The Emergency Contraception Website](http://ec.princeton.edu)
