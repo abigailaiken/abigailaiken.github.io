@@ -33,6 +33,5 @@ Research and Policy Analysis
 [The Guttmacher Institute](http://www.guttmacher.org)
 
 Resources and Education  
-[The Emergency Contraception Website](http://ec.princeton.edu)
-Abortion  
+[The Emergency Contraception Website](http://ec.princeton.edu)  
 [Shift](http://www.shiftstigma.org)
