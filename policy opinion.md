@@ -4,7 +4,7 @@ permalink: /policy/index.html
 title: Policy Opinion 
 tags: [about, Jekyll, theme, responsive]
 image:
-  feature: 2015-02-11 15.44.06.jpg
+  feature: gatsby.jpg
 ---
 
 I believe that policies affecting reproductive health and reproductive
