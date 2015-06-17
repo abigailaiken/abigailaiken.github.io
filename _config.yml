@@ -18,9 +18,11 @@ links:
     url: /research
   - title: Teaching
     url: /teaching
+  - title: Policy Opinion
+    url: /policy 
   - title: People 
     url: /people
-
+   
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Chicago
 future:      true
