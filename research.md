@@ -9,7 +9,7 @@ image:
 
 My current research interests encompass three main areas:  
 1) Unintended pregnancy  
-2) Reproductive health policy  
+2) Access to contraception and abortion  
 3) Evidence-based obstetric practice.  
 
 ###   Unintended Pregnancy 
@@ -26,7 +26,7 @@ Significant disparities in rates of unintended pregnancy exist by race/ethnicity
 
 * [Aiken ARA, Angel JL & Miles TP. Pregnancy as a Risk Factor for Ambulatory Limitation in Later Life: Evidence from the Hispanic-EPESE. American Journal of Public Health 2012:102(12);2330–2335](http://www.ncbi.nlm.nih.gov/pubmed/?term=pregnancy+as+a+risk+factor+for+ambulatory+limitation+in+later+life)
 
-### Reproductive Health Policy 
+### Access to Contraception and Abortion 
 
 This aspect of my research investigates international, national, and state policies affecting access to contraception, abortion, and reproductive health services. As part of the Texas Policy Evaluation Project (Tx-PEP), I have been engaged in projects describing how legislative budget reductions in public funding for family planning in Texas affect the ability of clinics to provide services and the ability of women to obtain their desired methods of contraception.   
 
