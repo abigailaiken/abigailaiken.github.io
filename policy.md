@@ -8,7 +8,7 @@ image:
 ---
 
 I believe that policies affecting reproductive health and reproductive
-rights should be firmly based upon scientific evidence and the
+rights should be based upon scientific evidence and the
 principles of equity and autonomy. The following pieces are a mix of solicited and volunteered commentary on some recent policy and practice
 issues.
 
