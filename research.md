@@ -55,7 +55,7 @@ Following Unplanned Conversion to General Anesthetic at Elective Cesarean Sectio
 
 We are also interested in the development of training programs to help ensure that obstetric trainees receive adequate opportunities to develop skills in the use of obstetric instruments.  
 
-* [Aiken CEM, Aiken ARA, Park H, Brockelsby JC & Prentice A. Factors Associated with Adverse Clinical Outcomes Among Obstetrics Ttrainees. Medical Education 2015:49(7);674-83] (http://www.ncbi.nlm.nih.gov/pubmed/?term=Factors+associated+with+adverse+clinical+outcomes+among+obstetrics+trainees).  
+* [Aiken CEM, Aiken ARA, Park H, Brockelsby JC & Prentice A. Factors Associated with Adverse Clinical Outcomes Among Obstetrics Ttrainees. Medical Education 2015:49(7);674-83](http://www.ncbi.nlm.nih.gov/pubmed/?term=Factors+associated+with+adverse+clinical+outcomes+among+obstetrics+trainees).  
 
 
  
