@@ -36,7 +36,7 @@ This aspect of my research investigates international, national, and state polic
 The postpartum period offers opportunities for women and providers to engage in shared contraceptive decision-making. Yet this key time is often overlooked in research aiming to improve access to contraception and reduce unintended pregnancy. In collaboration with domestic and international colleagues, I have examined system-level barriers affecting postpartum access to highly effective long-acting reversible methods of contraception via Medicaid in the U.S. and via the National Health Service (NHS) in the UK.  
 
 * [Aiken ARA, Creinin M, Kaunitz, A, Nelson, A, & Trussell J. Global Fee Prohibits Postpartum Provision of the Most Effective Reversible Contraceptives. Contraception 2014:90(5);466-467](http://www.ncbi.nlm.nih.gov/pubmed/?term=Global+Fee+Prohibits+Postpartum+Provision+of+the+Most+Effective+Reversible+Contraceptives.)  
-* [Aiken ARA, Aiken CEM, Trussell J, & Guthrie KA. Immediate Postpartum Provision of Highly Effective Reversible Contraception in the UK. Commentary in British Journal of Obstetrics and Gynaecology 2015 Forthcoming](http://www.ncbi.nlm.nih.gov/pubmed/25626730)
+* [Aiken ARA, Aiken CEM, Trussell J, & Guthrie KA. Immediate Postpartum Provision of Highly Effective Reversible Contraception in the UK. Commentary in British Journal of Obstetrics and Gynaecology 2015:122(8);1050-1](http://www.ncbi.nlm.nih.gov/pubmed/25626730)
 
 I am also interested in the development of new methods of contraception, improvements to existing methods, and ways to reduce financial barriers to methods with high upfront costs, as well as in reproductive health professionals' own experiences with contraceptive use and unprotected intercourse.  
 
@@ -55,7 +55,7 @@ Following Unplanned Conversion to General Anesthetic at Elective Cesarean Sectio
 
 We are also interested in the development of training programs to help ensure that obstetric trainees receive adequate opportunities to develop skills in the use of obstetric instruments.  
 
-* [Aiken CEM, Aiken ARA, Park H, Brockelsby JC & Prentice A. Factors Associated with Adverse Clinical Outcomes Among Obstetrics Ttrainees. Medical Education 2015:49(7);674-83](http://www.ncbi.nlm.nih.gov/pubmed/?term=Factors+associated+with+adverse+clinical+outcomes+among+obstetrics+trainees).  
+* [Aiken CEM, Aiken ARA, Park H, Brockelsby JC & Prentice A. Factors Associated with Adverse Clinical Outcomes Among Obstetrics Ttrainees. Medical Education 2015:49(7);674-83](http://www.ncbi.nlm.nih.gov/pubmed/?term=Factors+associated+with+adverse+clinical+outcomes+among+obstetrics+trainees)  
 
 
  
