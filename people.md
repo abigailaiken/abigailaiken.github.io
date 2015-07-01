@@ -30,7 +30,7 @@ The following organizations provide current, accurate, and excellent
 information and resources on various facets of reproductive health:
 
 Research, Policy Analysis, and Advocacy  
-[The Guttmacher Institute](http://www.guttmacher.org)
+[The Guttmacher Institute](http://www.guttmacher.org)  
 [The Center for Reproductive Rights](http://www.reproductiverights.org)
 
 Resources and Education  
