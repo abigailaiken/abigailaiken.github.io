@@ -21,7 +21,10 @@ settinges. Some of these include:
 of Texas at Austin  
 [Dr Jenny Higgins](http://jennyhiggins.net) at the University of
 Wisconsin-Madison  
-My colleagues at the [Texas Policy Evaluation Project](http://www.utexas.edu/cola/orgs/txpep/).
+Dr Patricia Lohr at
+[The British Pregnancy Advisory Service](https://www.bpas.org)  
+My colleagues at the
+[Texas Policy Evaluation Project](http://www.utexas.edu/cola/orgs/txpep/)  
 
 
 ### Organizations and Resources
@@ -37,4 +40,5 @@ Resources and Education
 [The Emergency Contraception Website](http://ec.princeton.edu)  
 [Shift](http://www.shiftstigma.org)  
 [Bedsider](https://bedsider.org)  
-[Contraceptive Technology](http://www.contraceptivetechnology.org)  
+[Contraceptive Technology](http://www.contraceptivetechnology.org)
+[The British Pregnancy Advisory Service](https://www.bpas.org)  
