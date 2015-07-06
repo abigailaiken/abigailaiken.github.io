@@ -40,5 +40,5 @@ Resources and Education
 [The Emergency Contraception Website](http://ec.princeton.edu)  
 [Shift](http://www.shiftstigma.org)  
 [Bedsider](https://bedsider.org)  
-[Contraceptive Technology](http://www.contraceptivetechnology.org)
+[Contraceptive Technology](http://www.contraceptivetechnology.org)  
 [The British Pregnancy Advisory Service](https://www.bpas.org)  
