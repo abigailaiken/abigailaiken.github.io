@@ -9,11 +9,13 @@ image:
 
 ## Fall 2016
 
-## PA 388K/WGS 393/SS 301: Reproductive Health and Reproductive Rights
+### PA 388K/WGS 393/SS 301: Reproductive Health and Reproductive Rights
 
-This is a course for Master's students at the University of Texas at
-Austin, as well as upper-division Plan II (liberal arts honors)
-undergraduates. Classes are divided into three parts, including a
+This is a course for Master's students in the LBJ school and across
+departments, inclduing sociology, nursing, women's and gender studies,
+social work, and education, as well as upper-division Plan II (liberal arts honors)
+undergraduates at the University of Texas at
+Austin. Classes are divided into three parts, including a
 mini-lecture, discussion, and policy-oriented activites. Students
 learn to apply scientific principles and reproductive rights
 frameworks to such policy issues as unintended pregnancy,
