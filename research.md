@@ -23,15 +23,16 @@ In many parts of the world, abortion is highly restricted by laws and policies. 
 
 ###   Unintended Pregnancy 
 
-Unintended pregnancy has long been a major public health and policy issue in the United States. Yet 
+Unintended pregnancy has long been a major public health issue in the United States. The public discourse and policy conversation often focuses on unintended pregnancy solely as a negative and stigmatizing behavior, calling for women to adhere to a strict planning paradigm, where timing-based pregnancy intentions are essential and plans are made to follow through on those intentions. Yet for many women, their thoughts and feelings about pregnancy are not nearly so straightforward. For some women, the normative social ideals that dicatate whether or not one is "ready to parent" are unattainable, for others, positive feelings about children clash with lack of economic resources. In short, the story of unintended pregnancy is often a lot more complex than it seems. The goal of this research is to bring women's actual attitudes and experiences to the forefront of the policy conversation. In doing so, we suggest that is it not "unintended pregnancy" we should focus on preventing, but undesired pregnancy.
 
+*[Aiken ARA, Borrero S, Callegari LS, & Dehlendorf C. Rethinking the Pregnancy Planning Paradigm: Unintended Conceptions or Unrepresentative Concepts?](http://onlinelibrary.wiley.com/doi/10.1363/48e10316/abstract)  
+* [Aiken ARA, Westhoff C, Trussell J & Castaño, P. Comparison of a Timing-Based Measure of Unintended Pregnancy and the London Measure of Unplanned Pregnancy.](http://onlinelibrary.wiley.com/doi/10.1363/48e11316/full)  
+* [Aiken ARA & Trussell J. Anticipated Emotional Impacts of Unintended Pregnancy: Differences by Relationship Context and Nativity.](http://onlinelibrary.wiley.com/doi/10.1111/jomf.12338/full)  
 * [Aiken ARA. Happiness About Unintended Pregnancy and its Relationship to Contraceptive Desires Among a Predominantly Latina Cohort Perspectives on Sexual and Reproductive Health 2015:47(2);99-106](http://www.ncbi.nlm.nih.gov/pubmed/?term=Happiness+About+Unintended+Pregnancy+and+its+Relationship+to+Contraceptive+Desires+Among+a+Predominantly+++++++++++++Latina+Cohort+Perspectives+on+Sexual+and+Reproductive+Health+2015)  
 * [Aiken ARA, Dillaway C & Mevs-Korff N. A Blessing I Can’t Afford: Factors Underlying the
 Paradox of Happiness About Unintended Pregnancy Social Science and Medicine 2015:132;149-155](http://www.ncbi.nlm.nih.gov/pubmed/?term=a+blessing+i+can't+afford).  This article was selected for recommendation by the Faculty of 1000 as being of special significance in its field.  
 * [Aiken ARA & Potter JE. Are Latina Women Ambivalent About Pregnancies they are Trying to Prevent? Perspectives on Sexual and Reproductive Health 2013:45(4);196-203](http://www.ncbi.nlm.nih.gov/pubmed/?term=Are+Latina+Women+Ambivalent+About+Pregnancies+they+are+Trying+to+Prevent%3F+Perspectives+on+Sexual+and+Reproductive+Health)  
 
-
-Significant disparities in rates of unintended pregnancy exist by race/ethnicity and by socioeconomic status. A further dimension of this work assessed the later-life health impacts of high parity among Latina women, including increased susceptibility to physical disability at older ages.  
 
 
 ### Access to Contraception and Abortion 
