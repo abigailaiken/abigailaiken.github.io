@@ -21,7 +21,20 @@ In many parts of the world, abortion is highly restricted by laws and policies. 
 *  [Aiken ARA, Scott JG, Gomperts R, Trussell J, Worrell M, Aiken CE. Requests for abortion in Latin America related to concern about Zika virus exposure. New England Journal of Medicine. 2016 Jul 28;375(4):396-8.     ](http://www.nejm.org/doi/full/10.1056/NEJMc1605389#t=article)
 
 
-###   Unintended Pregnancy 
+### Contraceptive desires and access 
+
+This aspect of my research investigates international, national, and state policies affecting access to contraception, abortion, and reproductive health services. As part of the Texas Policy Evaluation Project (Tx-PEP), I have been engaged in projects describing how legislative budget reductions in public funding for family planning in Texas affect the ability of clinics to provide services and the ability of women to obtain their desired methods of contraception.   
+
+* [Potter JE, Hopkins K, Aiken ARA, Hubert C, Stevenson A, White K & Grossman D. Unmet Demand for Highly Effective Postpartum Contraception in Texas. Contraception 2014:90(5);488-495](http://www.ncbi.nlm.nih.gov/pubmed/?term=Unmet+Demand+for+Highly+Effective+Postpartum+Contraception+in+Texas)  
+* [White K, Hopkins K, Aiken ARA, Stevenson A, Hubert C, Grossman D, Potter JE. The Impact of Reproductive Health Legislation on Family Planning Clinic Services in Texas. American Journal of Public Health 2015:105(5);851-8](http://www.ncbi.nlm.nih.gov/pubmed/?term=The+Impact+of+Reproductive+Health+Legislation+on+Family+Planning+Clinic+Services+in+Texas)
+
+The postpartum period offers opportunities for women and providers to engage in shared contraceptive decision-making. Yet this key time is often overlooked in research aiming to improve access to contraception and reduce unintended pregnancy. In collaboration with domestic and international colleagues, I have examined system-level barriers affecting postpartum access to highly effective long-acting reversible methods of contraception via Medicaid in the U.S. and via the National Health Service (NHS) in the UK.  
+
+* [Aiken ARA, Creinin M, Kaunitz, A, Nelson, A, & Trussell J. Global Fee Prohibits Postpartum Provision of the Most Effective Reversible Contraceptives. Contraception 2014:90(5);466-467](http://www.ncbi.nlm.nih.gov/pubmed/?term=Global+Fee+Prohibits+Postpartum+Provision+of+the+Most+Effective+Reversible+Contraceptives.)  
+* [Aiken ARA, Aiken CEM, Trussell J, & Guthrie KA. Immediate Postpartum Provision of Highly Effective Reversible Contraception in the UK. Commentary in British Journal of Obstetrics and Gynaecology 2015:122(8);1050-1](http://www.ncbi.nlm.nih.gov/pubmed/25626730)
+
+
+###   Unintended pregnancy 
 
 Unintended pregnancy has long been a major public health issue in the United States. The public discourse and policy conversation often focuses on unintended pregnancy solely as a negative and stigmatizing behavior, calling for women to adhere to a strict planning paradigm, where timing-based pregnancy intentions are essential and plans are made to follow through on those intentions. Yet for many women, their thoughts and feelings about pregnancy are not nearly so straightforward. For some women, the normative social ideals that dicatate whether or not one is "ready to parent" are unattainable, for others, positive feelings about children clash with lack of economic resources. In short, the story of unintended pregnancy is often a lot more complex than it seems. The goal of this research is to bring women's actual attitudes and experiences to the forefront of the policy conversation. In doing so, we suggest that is it not "unintended pregnancy" we should focus on preventing, but undesired pregnancy.
 
@@ -33,19 +46,6 @@ Unintended pregnancy has long been a major public health issue in the United Sta
 Paradox of Happiness About Unintended Pregnancy Social Science and Medicine 2015:132;149-155](http://www.ncbi.nlm.nih.gov/pubmed/?term=a+blessing+i+can't+afford).  This article was selected for recommendation by the Faculty of 1000 as being of special significance in its field.  
 * [Aiken ARA & Potter JE. Are Latina Women Ambivalent About Pregnancies they are Trying to Prevent? Perspectives on Sexual and Reproductive Health 2013:45(4);196-203](http://www.ncbi.nlm.nih.gov/pubmed/?term=Are+Latina+Women+Ambivalent+About+Pregnancies+they+are+Trying+to+Prevent%3F+Perspectives+on+Sexual+and+Reproductive+Health)  
 
-
-
-### Access to Contraception and Abortion 
-
-This aspect of my research investigates international, national, and state policies affecting access to contraception, abortion, and reproductive health services. As part of the Texas Policy Evaluation Project (Tx-PEP), I have been engaged in projects describing how legislative budget reductions in public funding for family planning in Texas affect the ability of clinics to provide services and the ability of women to obtain their desired methods of contraception.   
-
-* [Potter JE, Hopkins K, Aiken ARA, Hubert C, Stevenson A, White K & Grossman D. Unmet Demand for Highly Effective Postpartum Contraception in Texas. Contraception 2014:90(5);488-495](http://www.ncbi.nlm.nih.gov/pubmed/?term=Unmet+Demand+for+Highly+Effective+Postpartum+Contraception+in+Texas)  
-* [White K, Hopkins K, Aiken ARA, Stevenson A, Hubert C, Grossman D, Potter JE. The Impact of Reproductive Health Legislation on Family Planning Clinic Services in Texas. American Journal of Public Health 2015:105(5);851-8](http://www.ncbi.nlm.nih.gov/pubmed/?term=The+Impact+of+Reproductive+Health+Legislation+on+Family+Planning+Clinic+Services+in+Texas)
-
-The postpartum period offers opportunities for women and providers to engage in shared contraceptive decision-making. Yet this key time is often overlooked in research aiming to improve access to contraception and reduce unintended pregnancy. In collaboration with domestic and international colleagues, I have examined system-level barriers affecting postpartum access to highly effective long-acting reversible methods of contraception via Medicaid in the U.S. and via the National Health Service (NHS) in the UK.  
-
-* [Aiken ARA, Creinin M, Kaunitz, A, Nelson, A, & Trussell J. Global Fee Prohibits Postpartum Provision of the Most Effective Reversible Contraceptives. Contraception 2014:90(5);466-467](http://www.ncbi.nlm.nih.gov/pubmed/?term=Global+Fee+Prohibits+Postpartum+Provision+of+the+Most+Effective+Reversible+Contraceptives.)  
-* [Aiken ARA, Aiken CEM, Trussell J, & Guthrie KA. Immediate Postpartum Provision of Highly Effective Reversible Contraception in the UK. Commentary in British Journal of Obstetrics and Gynaecology 2015:122(8);1050-1](http://www.ncbi.nlm.nih.gov/pubmed/25626730)
 
 
 ### Evidence-Based Obstetric Practice
