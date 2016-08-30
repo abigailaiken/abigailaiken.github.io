@@ -9,7 +9,7 @@ image:
 
 ## Fall 2016
 
-##PA 388K/WGS 393/SS 301: Reproductive Health and Reproductive Rights
+## PA 388K/WGS 393/SS 301: Reproductive Health and Reproductive Rights
 
 This is a course for Master's students at the University of Texas at
 Austin, as well as upper-division Plan II (liberal arts honors)
