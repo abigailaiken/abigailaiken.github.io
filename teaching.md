@@ -12,7 +12,7 @@ image:
 ### PA 388K/WGS 393/SS 301: Reproductive Health and Reproductive Rights
 
 This is a course for Master's students in the LBJ school and across
-departments, inclduing sociology, nursing, women's and gender studies,
+departments, including sociology, nursing, women's and gender studies,
 social work, and education, as well as upper-division Plan II (liberal arts honors)
 undergraduates at the University of Texas at
 Austin. Classes are divided into three parts, including a
