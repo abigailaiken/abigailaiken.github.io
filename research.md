@@ -14,9 +14,11 @@ My current research interests encompass three main areas:
 
 ###   Abortion outside the formal healthcare setting
 
-In many parts of the world, abortion is highly restricted by laws and policies. Yet women still requrie access to abortion and find ways to self-source abortion medications and use them outside the formal healthcare setting. Focusing on Northern Ireland, Ireland, the United States, and Latin America, the overarching goals of my work in this area are: 1) to inform strategies to increase access to safe and supported at-home abortion in areas where abortion is unavailable or highly restricted; and 2) to inform and change the policy conversation.
+In many parts of the world, abortion is highly restricted by laws and policies. Yet women still requrie access to abortion and find ways to self-source abortion medications and use them outside the formal healthcare setting. Focusing on Northern Ireland, Ireland, the United States, and Latin America, the overarching goals of my work in this area are:  
+1) to inform strategies to increase access to safe and supported at-home abortion in areas where abortion is unavailable or highly restricted  
+2) to inform and change the policy conversation.  
 
-* [Aiken ARA, Scott JG, Gomperts R, Trussell J, Worrell M, Aiken CE. Requests for abortion in Latin America related to concern about Zika virus exposure. New England Journal of Medicine. 2016 Jul 28;375(4):396-8.     ](http://www.nejm.org/doi/full/10.1056/NEJMc1605389#t=article)
+*  [Aiken ARA, Scott JG, Gomperts R, Trussell J, Worrell M, Aiken CE. Requests for abortion in Latin America related to concern about Zika virus exposure. New England Journal of Medicine. 2016 Jul 28;375(4):396-8.     ](http://www.nejm.org/doi/full/10.1056/NEJMc1605389#t=article)
 
 
 ###   Unintended Pregnancy 
