@@ -18,6 +18,7 @@ on some recent policy and practice issues.
 
 ### Abortion
 
+* [Zika Virus Spread Renews Focus no Abortion Debate](http://www.wsj.com/articles/zika-virus-spread-renews-focus-on-abortion-debate-1471821486?tesla=y)  
 * In response to Ross Douthat's 2013 Op-ed "The Texas Abortion
   Experiment": [letter in The New York Times](http://www.nytimes.com/2013/07/26/opinion/abortion-laws-in-texas-and-ireland.html?ref=todayspaper&_r=0)  
 * The Fifth Circuit ruling on HB2, a Texas aborion bill signed into
