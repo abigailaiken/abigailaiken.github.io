@@ -19,6 +19,7 @@ settinges. Some of these include:
  at the University of Cambridge  
 [Dr James Scott](http://jgscott.github.io) at the University
 of Texas at Austin  
+Dr. Rebecca Gomperts at [Women on Web](https://www.womenonweb.org)  
 [Dr Jenny Higgins](http://jennyhiggins.net) at the University of
 Wisconsin-Madison  
 Dr Patricia Lohr at
@@ -42,3 +43,5 @@ Resources and Education
 [Bedsider](https://bedsider.org)  
 [Contraceptive Technology](http://www.contraceptivetechnology.org)  
 [The British Pregnancy Advisory Service](https://www.bpas.org)  
+[Women on Web](https://www.womenonweb.org)  
+[Women on Waves](http://www.womenonwaves.org)
