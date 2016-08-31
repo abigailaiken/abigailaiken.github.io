@@ -19,7 +19,7 @@ on some recent policy and practice issues.
 ### Abortion
 
 * TIME Magazine July 2016 [Women and Children Are Political Pawns In the Zika Funding Battle.](http://time.com/4393306/women-zika-congress-funding/)  
-*The Dallas Morning News June 2016
+* The Dallas Morning News June 2016
  [We’re Failing Women Amid the Zika Crisis](http://www.dallasnews.com/opinion/latest-columns/20160628-abigail-aiken-and-catherine-aiken-were-failing-women-amid-the-zika-crisis.ece)  
 * In response to Ross Douthat's 2013 Op-ed "The Texas Abortion
   Experiment": [letter in The New York Times](http://www.nytimes.com/2013/07/26/opinion/abortion-laws-in-texas-and-ireland.html?ref=todayspaper&_r=0)  
