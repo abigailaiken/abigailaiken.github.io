@@ -13,6 +13,8 @@ principles of equity and autonomy. I am also committed to helping my
 research findings reach a wider auidence beyond other academic
 colleagues.
 
+My and my collaborators' research has been reported by The New York Times, The Washington Post, The Wall Street Journal, Reuters, Associated Press, BBC World News, The Guardian, The Chicago Tribune, The Dallas Morning News, The Houston Chronicle, NPR, CNN, NBC Universal, CBS, ABC News, New Scientist, and Time Magazine, among others. 
+
 The following pieces are a mix of solicited and volunteered commentary
 on some recent policy and practice issues.
 
