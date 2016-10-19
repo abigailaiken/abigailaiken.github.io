@@ -13,13 +13,14 @@ principles of equity and autonomy. I am also committed to helping my
 research findings reach a wider auidence beyond other academic
 colleagues.
 
-My and my collaborators' research has been reported by The New York Times, The Washington Post, The Wall Street Journal, Reuters, Associated Press, BBC World News, The Guardian, The Chicago Tribune, The Dallas Morning News, The Houston Chronicle, NPR, CNN, NBC Universal, CBS, ABC News, New Scientist, and Time Magazine, among others. 
+My and my collaborators' research has been reported by The BBC World Service, Reuters, The Associated Press, NPR, CNN, TIME Magazine, The New York Times, The Washington Post, The Wall Street Journal, The Guardian, The Irish Times, Newsweek, The Chicago Tribune, The Dallas Morning News, The Houston Chronicle, NBC Universal, CBS, ABC News, and New Scientist, among others. 
 
 The following pieces are a mix of solicited and volunteered commentary
 on some recent policy and practice issues.
 
 ### Abortion
 
+* The Irish Times October 2016 [Demand for Abortion Pills Highlights Need for Change in the Law.](http://www.irishtimes.com/opinion/demand-for-abortion-pills-highlights-need-for-change-in-the-law-1.2831846)  
 * WSJ August 2016 [Zika Virus Spread Renews Focus on Abortion Debate](http://www.wsj.com/articles/zika-virus-spread-renews-focus-on-abortion-debate-1471821486?tesla=y)  
 * In response to Ross Douthat's 2013 Op-ed "The Texas Abortion
   Experiment": [letter in The New York Times](http://www.nytimes.com/2013/07/26/opinion/abortion-laws-in-texas-and-ireland.html?ref=todayspaper&_r=0)  
