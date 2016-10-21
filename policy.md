@@ -20,7 +20,9 @@ on some recent policy and practice issues.
 
 ### Abortion
 
-* The Irish Times October 2016 [Demand for Abortion Pills Highlights Need for Change in the Law.](http://www.irishtimes.com/opinion/demand-for-abortion-pills-highlights-need-for-change-in-the-law-1.2831846)  
+* The BBC World Service, October 2016
+  [Health Check: Women Feel Empowered by Online Abortions](http://www.bbc.co.uk/programmes/p047xzcs)  
+* The Irish Times, October 2016 [Demand for Abortion Pills Highlights Need for Change in the Law.](http://www.irishtimes.com/opinion/demand-for-abortion-pills-highlights-need-for-change-in-the-law-1.2831846)  
 * WSJ August 2016 [Zika Virus Spread Renews Focus on Abortion Debate](http://www.wsj.com/articles/zika-virus-spread-renews-focus-on-abortion-debate-1471821486?tesla=y)  
 * In response to Ross Douthat's 2013 Op-ed "The Texas Abortion
   Experiment": [letter in The New York Times](http://www.nytimes.com/2013/07/26/opinion/abortion-laws-in-texas-and-ireland.html?ref=todayspaper&_r=0)  
