@@ -7,7 +7,7 @@ image:
   feature: IMG_2253.JPG
 ---
 
-## Fall 2016, Spring 2017, and Fall 2017
+## Fall 2017
 
 ### PA 388K/WGS 393/SS 301: Reproductive Health and Reproductive Rights
 
