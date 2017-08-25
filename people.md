@@ -21,8 +21,7 @@ of Texas at Austin
 Dr. Rebecca Gomperts at [Women on Web](https://www.womenonweb.org)  
 [Dr Jenny Higgins](http://jennyhiggins.net) at the University of
 Wisconsin-Madison  
-[Professor James Trussell](http://www.princeton.edu/~trussell/) at
-Princeton University 
+[Professor James Trussell](http://www.princeton.edu/~trussell/) at Princeton University   
 Dr Patricia Lohr at
 [The British Pregnancy Advisory Service](https://www.bpas.org)  
 My colleagues at the
@@ -41,9 +40,9 @@ Research, Policy Analysis, and Advocacy
 
 Resources and Education  
 [Women on Web](https://www.womenonweb.org)  
-[Women on Waves](http://www.womenonwaves.org)
-[Plan C Pills](https://plancpills.org/)
-[Jane’s Due Process](https://janesdueprocess.org/)
+[Women on Waves](http://www.womenonwaves.org) 
+[Plan C Pills](https://plancpills.org/)  
+[Jane’s Due Process](https://janesdueprocess.org/)  
 [The Emergency Contraception Website](http://ec.princeton.edu)  
 [Shift](http://www.shiftstigma.org)  
 [Bedsider](https://bedsider.org)  
