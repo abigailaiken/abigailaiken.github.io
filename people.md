@@ -40,7 +40,7 @@ Research, Policy Analysis, and Advocacy
 
 Resources and Education  
 [Women on Web](https://www.womenonweb.org)  
-[Women on Waves](http://www.womenonwaves.org) 
+[Women on Waves](http://www.womenonwaves.org)   
 [Plan C Pills](https://plancpills.org/)  
 [Jane’s Due Process](https://janesdueprocess.org/)  
 [The Emergency Contraception Website](http://ec.princeton.edu)  
