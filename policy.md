@@ -42,6 +42,7 @@ on some recent policy and practice issues.
  
 ### Contraception
 
+* Austin American-Statesman Jan 2017 [Metrics are the Difference Between Good and Bad Policy](http://www.mystatesman.com/news/opinion/commentary-metrics-are-the-difference-between-good-and-bad-policy/8OxMmUwKCDW6U7CsELuSGL/) 
 * The 2014 endorsement of intrauterine devices and implants as "first line"
   contraceptives for teens by the American Academy of Pediatrics:
  [WWS Reacts: Are IUDs the Most Effective Form of Contraception for Teens?](http://wws.princeton.edu/news-and-events/news/item/wws-reacts-are-iuds-most-effective-form-contraception-teens)  
