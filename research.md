@@ -14,12 +14,13 @@ My current research interests encompass three main areas:
 
 ###   Abortion outside the formal healthcare setting
 
-In many parts of the world, abortion is highly restricted by laws and policies. Yet women still requrie access to abortion and find ways to self-source abortion medications and use them outside the formal healthcare setting. Focusing on Northern Ireland, Ireland, the United States, and Latin America, the overarching goals of my work in this area are to:  
+In many parts of the world, abortion is highly restricted by laws and policies. Yet women still require access to abortion and find ways to self-source abortion medications and use them outside the formal healthcare setting. Focusing on Northern Ireland, Ireland, the United States, and Latin America, the overarching goals of my work in this area are to:  
 1) inform strategies to increase access to safe and supported at-home abortion in areas where abortion is unavailable or highly restricted  
 2) provide evidence that can shape the policy conversation.  
 
+* [Aiken ARA, Digol I, Trussell J, & Gomperts R. Self-Reported Outcomes and Adverse EventsFollowing Medical Abortion via Online Telemedicine: A Population-based Study in Ireland and Northern Ireland. BMJ 2017](http://www.bmj.com/content/357/bmj.j2011) Covered by The Associated Press, Reuters, The Washington Post, Sky News, The Guardian, The Irish Times, among others.  
 * [Aiken ARA, Gomperts R & Trussell J. Experiences and Characteristics of Women Seeking and Completing At-home Medical Termination of Pregnancy Through Online Telemedicine in Ireland and Northern Ireland: A Population-based Analysis. British Journal of Obstetrics & Gynaecology 2016. Online Ahead of Print.](http://onlinelibrary.wiley.com/doi/10.1111/1471-0528.14401/full) Covered by TIME, Newsweek, The Guardian, The Irish Times, and BBC News, among others.  
-* [Aiken ARA, Scott JG, Gomperts R, Trussell J, Worrell M, Aiken CE. Requests for abortion in Latin America related to concern about Zika virus exposure. New England Journal of Medicine. 2016 Jul 28;375(4):396-8.     ](http://www.nejm.org/doi/full/10.1056/NEJMc1605389#t=article) Covered by Reuters, The Assoicated Press, The New York Times, The Washington Post, NPR, and The Wall Street Journal, among others.  
+* [Aiken ARA, Scott JG, Gomperts R, Trussell J, Worrell M, Aiken CE. Requests for abortion in Latin America related to concern about Zika virus exposure. New England Journal of Medicine. 2016 Jul 28;375(4):396-8.     ](http://www.nejm.org/doi/full/10.1056/NEJMc1605389#t=article) Covered by Reuters, The Associated Press, The New York Times, The Washington Post, NPR, and The Wall Street Journal, among others.  
 
 
 ###   Unintended pregnancy 
